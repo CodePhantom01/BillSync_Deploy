@@ -110,7 +110,8 @@ const getGroupsByUser = async (req, res) => {
 
 
 const sendInvite = async (email, phone, groupId) => {
-  const message = `You're invited to join a group in the Split app. Use this link to join: http://localhost:3000/groups/join/${groupId}`;
+  const message = `You're invited to join a group in the Split app. Use this link to join: https://billsync-phi.vercel.app/groups/join/${groupId}`;
+  //const message = `You're invited to join a group in the Split app. Use this link to join: http://localhost:3000/groups/join/${groupId}`;
   res.status(200).json({ message: message });
   // // Send email invite
   // const transporter = nodemailer.createTransport({
