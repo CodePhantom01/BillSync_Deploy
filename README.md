@@ -12,19 +12,16 @@ A full-stack **Expense Sharing & Bill Splitting Platform** designed to help grou
 
 ## 📸 Application Screenshots
 
-<p align="center">
-  <img src="screenshots/first.png" width="45%" />
-  <img src="screenshots/second.png" width="45%" />
-</p>
+<img src="screenshots/first.png" />
+<br/>
+<img src="screenshots/second.png" />
+<br/>
+<img src="screenshots/third.png" />
+<br/>
+<img src="screenshots/fourth.png" />
+<br/>
+<img src="screenshots/fifth.png" />
 
-<p align="center">
-  <img src="screenshots/third.png" width="45%" />
-  <img src="screenshots/fourth.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="screenshots/fifth.png" width="60%" />
-</p>
 
 
 
