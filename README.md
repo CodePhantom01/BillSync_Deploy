@@ -8,6 +8,26 @@ A full-stack **Expense Sharing & Bill Splitting Platform** designed to help grou
 
 ---
 
+---
+
+## 📸 Application Screenshots
+
+### 🔐 Authentication (Login / Register)
+![Login Page](screenshots/first.png)
+
+### 🏠 Dashboard / Groups Overview
+![Groups Dashboard](screenshots/second.png)
+
+### 👥 Group Details & Balances
+![Group Details](screenshots/third.png)
+
+### 💸 Add & Manage Expenses
+![Add Expense](screenshots/fourth.png)
+
+### 💬 Expense Details & Comments
+![Expense Details](screenshots/fifth.png)
+
+
 ## ✨ Features
 
 * 🔐 Secure JWT authentication (Login / Signup)
