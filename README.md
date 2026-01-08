@@ -12,20 +12,20 @@ A full-stack **Expense Sharing & Bill Splitting Platform** designed to help grou
 
 ## 📸 Application Screenshots
 
-### 🔐 Authentication (Login / Register)
-![Login Page](screenshots/first.png)
+<p align="center">
+  <img src="screenshots/first.png" width="45%" />
+  <img src="screenshots/second.png" width="45%" />
+</p>
 
-### 🏠 Dashboard / Groups Overview
-![Groups Dashboard](screenshots/second.png)
+<p align="center">
+  <img src="screenshots/third.png" width="45%" />
+  <img src="screenshots/fourth.png" width="45%" />
+</p>
 
-### 👥 Group Details & Balances
-![Group Details](screenshots/third.png)
+<p align="center">
+  <img src="screenshots/fifth.png" width="60%" />
+</p>
 
-### 💸 Add & Manage Expenses
-![Add Expense](screenshots/fourth.png)
-
-### 💬 Expense Details & Comments
-![Expense Details](screenshots/fifth.png)
 
 
 ## ✨ Features
